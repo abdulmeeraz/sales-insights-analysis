@@ -1,4 +1,4 @@
-# Day 9 – Data Insights Analysis Project 📊
+# Data Insights Analysis Project 📊
 
 ## Description
 An end-to-end data analysis project using Pandas to analyze sales data and generate business insights.
@@ -31,5 +31,5 @@ day-09-sales-insights-analysis/
  ├── main.py
 
  ├── sales_data.csv
- 
+
  └── README.md

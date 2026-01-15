@@ -6,4 +6,6 @@ OrderID,Product,Category,Quantity,Price
 5,Headphones,Electronics,6,2000
 6,Shoes,Fashion,2,3000
 7,Mobile,Electronics,4,30000
-8,suit,Fashon,2,5000
+8,suit,Fashion,2,5000
+9,Track pants,Fashion,4,1000
+10,computer,Electronics,2,30000

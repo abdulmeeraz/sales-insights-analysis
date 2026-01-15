@@ -24,6 +24,7 @@ An end-to-end data analysis project using Pandas to analyze sales data and gener
 ## How to Run
 1. Install Pandas
 2. Run:
+        python main.py
 
 📂 Project Structure
 day-09-sales-insights-analysis/
